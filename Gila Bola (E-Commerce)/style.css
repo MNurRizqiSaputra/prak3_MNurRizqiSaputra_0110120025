@@ -1,0 +1,29 @@
+
+nav{
+    margin: 0;
+    padding: 0;  
+}
+
+div{
+    background-color:#fdd10b; 
+    width: 1000px;
+    position:absolute;
+    align-content: center;
+    left:50%;
+    margin-left: -500px;
+}
+div ul li{
+    float:left;
+    list-style-type: none;
+}
+div ul li a{
+    display: block;
+    width: 100px;
+    text-align: center;
+    line-height: 40px;
+    border:#ff0606;
+    text-decoration: none;
+}
+div ul li a:hover{
+    background: #f2f1eb;
+}
